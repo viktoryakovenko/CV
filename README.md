@@ -1,2 +1,1 @@
-# CV
-CV current version
+# CV current version
